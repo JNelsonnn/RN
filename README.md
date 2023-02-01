@@ -1,4 +1,4 @@
-# PipLens Mobile App
+# React Native Mobile App
 
 ## Prerequisites
 
