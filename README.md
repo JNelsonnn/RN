@@ -9,7 +9,7 @@
 ## Setting up the development environment
 
 1. Clone the repository.
-  `git clone git@github.com:lisimba/piplens-mobile-app.git`
+  `git clone git@github.com:JNelsonnn/RN.git` 
 
 2. From the root directory, install the project dependencies.
   `yarn install`
