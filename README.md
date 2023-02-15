@@ -3,7 +3,7 @@
 
 This is a react native social media app using firebase. With full authorisation, create, read and update functionalitly.
 
- ![This is an image](p[rofile.png)
+ ![profile screen](profile.png)
 
 
 
