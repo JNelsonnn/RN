@@ -3,6 +3,8 @@
 
 This is a react native social media app using firebase. With full authorisation, create, read and update functionalitly.
 
+ ![This is an image](image_2023-02-15_160144989.png)
+
 
 
 Users are able to create profiles, upload images and view other users profiles.
