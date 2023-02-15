@@ -1,5 +1,23 @@
 # React Native Mobile App
 
+
+This is a react native social media app using firebase. With full authorisation, create, read and update functionalitly.
+
+
+
+Users are able to create profiles, upload images and view other users profiles.
+
+
+
+
+
+
+
+
+
+
+
+
 ## Prerequisites
 
 1. You have successfully completed setting up your React Native development environment using [the official documentation](https://reactnative.dev/docs/environment-setup).
