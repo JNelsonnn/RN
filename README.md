@@ -9,7 +9,7 @@ This is a react native social media app using firebase. With full authorisation,
 
 Users are able to create profiles, upload images and view other users profiles.
 
-![upload screen](uploadmedia.png)
+![uploadscreen](uploadmedia.png)
 
 
 
