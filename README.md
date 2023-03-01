@@ -12,7 +12,7 @@ This is a react native social media app using Firebase and the Native Base compo
  
 Upon opening the app, users are able to login or register an account. 
 
-![log in flow](loginflow.png)
+![log in flow](loginflow.PNG)
 
 
 
