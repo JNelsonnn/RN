@@ -1,13 +1,19 @@
 # React Native Mobile App
 
 
-This is a react native social media app using firebase. With full authorisation, create, read and update functionalitly.
+
+
+This is a react native social media app using Firebase and the Native Base component library. With full authorisation, create, read and update functionalitly.
 
  ![profile screen](profile.png)
+ 
+ 
+ 
+Upon opening the app, users are able to login or register an account 
 
 
 
-Users are able to create profiles, upload images and view other users profiles.
+Once logged in, users can create profiles, upload images and view other users profiles which is all stored in Firebase.
 
 ![uploadscreen](uploadMedia.png)
 
